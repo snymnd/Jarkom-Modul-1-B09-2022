@@ -7,6 +7,28 @@
 | Muhammad Yunus       | 5025201171 |
 | Hafiz Kurniawan      | 5025201032 |
 
+### 1. Sebutkan web server yang digunakan pada "monta.if.its.ac.id"!
+filter dengan `http` kemudian membuka hypertext yang memuat status 200 OK.<br>
+
+![1](https://user-images.githubusercontent.com/99454377/192098448-317b55f5-f685-4894-bb5c-569713b7f60b.png)
+
+Web server yang digunakan "monta.if.its.ac.id" adalah `nginx/1.10.3`
+
+### 2. Ishaq sedang bingung mencari topik ta untuk semester ini , lalu ia datang ke website monta dan menemukan detail topik pada website “monta.if.its.ac.id” , judul TA apa yang dibuka oleh ishaq ?
+
+Export object dengan langkah pilih `file --> export object`<br>
+
+![201](https://user-images.githubusercontent.com/99454377/192098458-dad04981-8314-4b16-a04b-a74d97b66735.png)
+
+Kemudian simpan id Ishaq (194) dan kemudian tambahkan ektensi pada file dengan menambahkan .html <br>
+
+![202](https://user-images.githubusercontent.com/99454377/192098464-e72a2413-c87a-478b-86cb-b82db31ad895.png)
+
+Lalu buka file tersebut dengan browser <br>
+
+![203](https://user-images.githubusercontent.com/99454377/192098469-26cf1a31-5887-489e-af49-95a5390dbcd3.png)
+<br>
+
 
 ### 3.Filter Sehingga Wireshark Hanya Menampilkan Paket Yang Menuju Port 80!
 
